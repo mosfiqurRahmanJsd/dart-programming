@@ -31,4 +31,7 @@ main() {
 
   weekVariable = 'Dart Programming';
   print('Week Variable 2: $weekVariable \n');
+
+  weekVariable = null;
+  print(weekVariable);
 }
